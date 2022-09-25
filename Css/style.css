@@ -1,0 +1,31 @@
+
+.imgs{
+    display: flex;
+}
+.imgs img{
+    width: 20%;
+    height: 40vh;
+}
+
+.slide img{
+    width: 80%;
+    height:80vh;
+    margin: 5%;
+    /* text-align: center; */
+}
+button{
+    background: none;
+    border: none;
+}
+i{
+    font-size: 40px;
+}
+
+ .parent{
+width: 100vw;
+height: 100vh;
+background-color: rgba(30, 30, 30, 0.5);
+} 
+/* .slide{
+    margin: auto;
+} */
